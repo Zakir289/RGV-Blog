@@ -1,8 +1,8 @@
 # RGV
 
-Among the philosophies I came across, I got more fascinated to India's Unique film maker ** Ram Gopal Varma **. I don't like him as a film director rather as a Philospher. 
+Among the philosophies I came across, I got more fascinated to India's Unique film maker **Ram Gopal Varma**. I don't like him as a film director rather as a Philospher. 
 
-This is a sample Blog for him which I will extend with rich UI, in future. This is so simple application, You need just read the files through the ** fs ** library and just display to the user. 
+This is a sample Blog for him which I will extend with rich UI, in future. This is so simple application, You need just read the files through the **fs** library and just display to the user. 
 
 In future I will adding more of his data with sections, and will host it. 
 
