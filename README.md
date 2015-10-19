@@ -9,6 +9,11 @@ In future I will adding more of his data with sections, and will host it.
 
 #### The sample app look like the below
 
+##### Home page
 ![Home Page](https://github.com/Zakir289/RGV-Blog/blob/master/ScreenShots/Screen%20Shot%202015-10-20%20at%2000.58.30.png)
+
+##### About me page
 ![About me](https://github.com/Zakir289/RGV-Blog/blob/master/ScreenShots/Screen%20Shot%202015-10-20%20at%2000.58.41.png)
+
+##### Blog
 ![Blog description](https://github.com/Zakir289/RGV-Blog/blob/master/ScreenShots/Screen%20Shot%202015-10-20%20at%2001.19.32.png)
